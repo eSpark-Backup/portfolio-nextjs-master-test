@@ -31,7 +31,7 @@
     "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {
-    "@babel/core": "^7.26.0",
+    "@babel/core": "^8.0.7",
     "@tailwindcss/typography": "^0.5.15",
     "@types/animejs": "^3.1.12",
     "@types/lodash": "^4.17.12",
